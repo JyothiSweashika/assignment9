@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignmemt9\assignmemt9\bin\Debug\assignmemt9.exe.config
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignmemt9\assignmemt9\bin\Debug\assignmemt9.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignmemt9\assignmemt9\bin\Debug\assignmemt9.pdb
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignmemt9\assignmemt9\obj\Debug\assignmemt9.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignmemt9\assignmemt9\obj\Debug\assignmemt9.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignmemt9\assignmemt9\obj\Debug\assignmemt9.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignmemt9\assignmemt9\obj\Debug\assignmemt9.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignmemt9\assignmemt9\obj\Debug\assignmemt9.pdb
